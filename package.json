@@ -1,0 +1,26 @@
+{
+  "name": "bsc-contracts-images",
+  "version": "1.0.0",
+  "description": "Great! If you already have Truffle installed, you can use it to compile the `ImageStorage.sol` smart contract and obtain the contract's ABI and bytecode. Here's how you can do it:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryansingh920/bsc-contracts-images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryansingh920/bsc-contracts-images/issues"
+  },
+  "homepage": "https://github.com/aryansingh920/bsc-contracts-images#readme",
+  "dependencies": {
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0",
+    "web3": "^4.1.2",
+    "web3-eth-contract": "^4.1.0"
+  }
+}

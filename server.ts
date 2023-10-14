@@ -7,6 +7,17 @@ const web3 = new Web3('<BSC_NODE_URL>');
 const privateKey = '<YOUR_PRIVATE_KEY>';
 const contractAddress = '<YOUR_CONTRACT_ADDRESS>';
 const contractABI = <YOUR_CONTRACT_ABI>;
+// Replace with the path to your swagger.yml file
+
+// Serve Swagger documentation
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+
+// Define your API routes here
+
+app.listen(3000, () => {
+    console.log('Server is running on port 3000');
+});
+
 
 const account = web3.eth.accounts.privateKeyToAccount(privateKey);
 web3.eth.accounts.wallet.add(account);
