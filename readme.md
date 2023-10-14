@@ -27,8 +27,8 @@ Remember to ensure that the Truffle project is configured to connect to the corr
 
 <hr/>
 
-Presentation: https://docs.google.com/presentation/d/1efydm5TVGqqbDEmqN8T-ZsAzK3ItEnnFxB49SGjmA3M/edit#slide=id.p10
-Literature Paper: https://docs.google.com/document/d/1ZzBjq1UDKqCiEMc0erqoMdmrHvkzMJ1TbUOVszr-qpQ/edit
-Survey Sheet: https://docs.google.com/document/d/10lUDndY8sJPjlPW_4koZXZPQor6Xfo_QViWueULTwuw/edit
-Algorithm: https://docs.google.com/document/d/1ZksI3xkPPDW0kkEcYbCEE3FALVDOGsHgAKNYtGLAImA/edit
-Base Paper: https://ieeexplore.ieee.org/document/9631521; https://ieeexplore.ieee.org/document/10152820
+Presentation: https://docs.google.com/presentation/d/1efydm5TVGqqbDEmqN8T-ZsAzK3ItEnnFxB49SGjmA3M/edit#slide=id.p10<br/>
+Literature Paper: https://docs.google.com/document/d/1ZzBjq1UDKqCiEMc0erqoMdmrHvkzMJ1TbUOVszr-qpQ/edit<br/>
+Survey Sheet: https://docs.google.com/document/d/10lUDndY8sJPjlPW_4koZXZPQor6Xfo_QViWueULTwuw/edit<br/>
+Algorithm: https://docs.google.com/document/d/1ZksI3xkPPDW0kkEcYbCEE3FALVDOGsHgAKNYtGLAImA/edit<br/>
+Base Paper: https://ieeexplore.ieee.org/document/9631521; https://ieeexplore.ieee.org/document/10152820<br/>
