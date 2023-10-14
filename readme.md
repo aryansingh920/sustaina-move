@@ -1,4 +1,4 @@
-Great! If you already have Truffle installed, you can use it to compile the `ImageStorage.sol` smart contract and obtain the contract's ABI and bytecode. Here's how you can do it:
+If you already have Truffle installed, you can use it to compile the `ImageStorage.sol` smart contract and obtain the contract's ABI and bytecode. Here's how you can do it:
 
 1. Open a terminal or command prompt and navigate to the root directory of your Truffle project.
 
@@ -23,4 +23,12 @@ Great! If you already have Truffle installed, you can use it to compile the `Ima
 
 Once you have replaced `<YOUR_CONTRACT_ABI>` and `<YOUR_CONTRACT_BYTECODE>` with the respective values from the `ImageStorage.json` file, you can use the Express server code to interact with the deployed `ImageStorage` contract on the BSC network.
 
-Remember to ensure that the Truffle project is configured to connect to the correct BSC network, and that you have deployed the `ImageStorage` contract to that network before running the Express server.
+Remember to ensure that the Truffle project is configured to connect to the correct BSC network and that you have deployed the `ImageStorage` contract to that network before running the Express server.
+
+<hr/>
+
+Presentation: https://docs.google.com/presentation/d/1efydm5TVGqqbDEmqN8T-ZsAzK3ItEnnFxB49SGjmA3M/edit#slide=id.p10
+Literature Paper: https://docs.google.com/document/d/1ZzBjq1UDKqCiEMc0erqoMdmrHvkzMJ1TbUOVszr-qpQ/edit
+Survey Sheet: https://docs.google.com/document/d/10lUDndY8sJPjlPW_4koZXZPQor6Xfo_QViWueULTwuw/edit
+Algorithm: https://docs.google.com/document/d/1ZksI3xkPPDW0kkEcYbCEE3FALVDOGsHgAKNYtGLAImA/edit
+Base Paper: https://ieeexplore.ieee.org/document/9631521; https://ieeexplore.ieee.org/document/10152820
